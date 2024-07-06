@@ -7,7 +7,7 @@ import android.graphics.Color
 import android.widget.Toast
 import androidx.constraintlayout.widget.ConstraintLayout
 import kotlin.random.Random
-
+// test commit 2
 class MainActivity : AppCompatActivity() {
 
 
